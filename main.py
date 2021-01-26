@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+def lastLetter(w):
+        return w [6] 
+        return len(w)
+
+
+print(lastLetter("bazinga"))
