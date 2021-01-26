@@ -1,6 +1,6 @@
 def lastLetter(w):
-        return w [6] 
-        return len(w)
+        return w[len(w)-1]
+        
 
 
 print(lastLetter("bazinga"))
